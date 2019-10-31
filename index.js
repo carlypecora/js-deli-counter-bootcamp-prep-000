@@ -27,5 +27,3 @@ function currentLine(katzDeliLine) {
     return `The line is currently: ${peopleInLine.join(", ")}`
   }
 }
-
-console.log(takeANumber(['ada', 'grace'], 'ozzy'))
