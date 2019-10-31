@@ -29,3 +29,4 @@ function currentLine(katzDeliLine) {
 }
 
 console.log(takeANumber(['ada', 'grace'], 'ozzy'))
+console.log("everybodyAllDay: " everybodyAllDay)
