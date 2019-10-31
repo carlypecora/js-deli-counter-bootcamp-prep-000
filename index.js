@@ -21,5 +21,6 @@ function currentLine(katzDeliLine) {
     for (var i = 0; i < katzDeliLine.length; i++) {
       peopleInLine.push(`${i + 1}. ${katzDeliLine[i]}`)
     }
+    console.log(peopleInLine)
   }
 }
